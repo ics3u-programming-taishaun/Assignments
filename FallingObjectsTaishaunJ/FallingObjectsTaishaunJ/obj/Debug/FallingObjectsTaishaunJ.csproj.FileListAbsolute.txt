@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\FallingObjectsTaishaunJ\FallingObjectsTaishaunJ\obj\Debug\FallingObjectsTaishaunJ.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\FallingObjectsTaishaunJ\FallingObjectsTaishaunJ\obj\Debug\FallingObjectsTaishaunJ.FallingObjectsForm.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\FallingObjectsTaishaunJ\FallingObjectsTaishaunJ\obj\Debug\FallingObjectsTaishaunJ.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\FallingObjectsTaishaunJ\FallingObjectsTaishaunJ\obj\Debug\FallingObjectsTaishaunJ.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\FallingObjectsTaishaunJ\FallingObjectsTaishaunJ\obj\Debug\FallingObjectsTaishaunJ.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\FallingObjectsTaishaunJ\FallingObjectsTaishaunJ\bin\Debug\FallingObjectsTaishaunJ.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\FallingObjectsTaishaunJ\FallingObjectsTaishaunJ\bin\Debug\FallingObjectsTaishaunJ.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\FallingObjectsTaishaunJ\FallingObjectsTaishaunJ\bin\Debug\FallingObjectsTaishaunJ.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\FallingObjectsTaishaunJ\FallingObjectsTaishaunJ\obj\Debug\FallingObjectsTaishaunJ.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\FallingObjectsTaishaunJ\FallingObjectsTaishaunJ\obj\Debug\FallingObjectsTaishaunJ.pdb
