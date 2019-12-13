@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\PizzaOrderTaishaunJ\PizzaOrderTaishaunJ\bin\Debug\PizzaOrderTaishaunJ.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\PizzaOrderTaishaunJ\PizzaOrderTaishaunJ\bin\Debug\PizzaOrderTaishaunJ.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\PizzaOrderTaishaunJ\PizzaOrderTaishaunJ\bin\Debug\PizzaOrderTaishaunJ.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\PizzaOrderTaishaunJ\PizzaOrderTaishaunJ\obj\Debug\PizzaOrderTaishaunJ.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\PizzaOrderTaishaunJ\PizzaOrderTaishaunJ\obj\Debug\PizzaOrderTaishaunJ.PizzaOrderForm.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\PizzaOrderTaishaunJ\PizzaOrderTaishaunJ\obj\Debug\PizzaOrderTaishaunJ.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\PizzaOrderTaishaunJ\PizzaOrderTaishaunJ\obj\Debug\PizzaOrderTaishaunJ.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\PizzaOrderTaishaunJ\PizzaOrderTaishaunJ\obj\Debug\PizzaOrderTaishaunJ.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\PizzaOrderTaishaunJ\PizzaOrderTaishaunJ\obj\Debug\PizzaOrderTaishaunJ.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Assignments\PizzaOrderTaishaunJ\PizzaOrderTaishaunJ\obj\Debug\PizzaOrderTaishaunJ.pdb
